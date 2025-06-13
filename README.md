@@ -52,7 +52,7 @@ Este proyecto es una demostración funcional del potencial para **visualizar, es
 
 Una vez desplegada en [Streamlit Community Cloud](https://streamlit.io/cloud), la aplicación puede ser accedida desde este enlace:
 
- **[https://cpolochicfc-64uab2kk9cjeinx6hkqwvp.streamlit.app](https://cpolochicfc-64uab2kk9cjeinx6hkqwvp.streamlit.app)** 
+ **[https://cpolochicfc-5qsnq8ubrqhlheyyglxpum.streamlit.app](https://cpolochicfc-5qsnq8ubrqhlheyyglxpum.streamlit.app)** 
 ---
 
 ##Próximos pasos sugeridos
