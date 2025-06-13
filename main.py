@@ -94,7 +94,7 @@ st_data = st_folium(m, width=1200, height=500)
 @st.cache_data
 def cargar_datos():
     #df = pd.read_csv("Precipitacion_Mensual_Polochic.csv")
-    df = pd.read_csv("C:\Polochic_Basin\Precipitacion_Subcuencas_Polochic.csv")
+    df = pd.read_csv("Precipitacion_Subcuencas_Polochic.csv")
     df["year"] = df["year"].astype(int)
     df["month"] = df["month"].astype(int)
     df["precip_m"] = df["precip_mm"] / 1000  # mm a mst
